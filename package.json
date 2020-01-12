@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Grace Kalombo",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.6",
+    "node-sass": "^4.13.0"
+  }
+}
